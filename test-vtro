@@ -1,1 +1,8 @@
-VTRO MOTORS PVT LTD.
+New users can be created in two ways:
+
+From the command line.
+Through the GUI.
+Adding a User from the Command Line
+In Ubuntu, there are two command-line tools that you can use to create a new user account: useradd and adduser.
+
+useradd is a low-level utility. adduser is a script written in Perl that acts as a friendly interactive frontend for useradd.
